@@ -217,7 +217,7 @@ This project demonstrates practical knowledge of:
 
 The project demonstrates how raw sales data can be analyzed to understand **who is shopping, where they are shopping from, and what types of products they are purchasing**.
 
-By combining **state, gender, and product category**, the analysis provides a clearer picture of customer shopping behavior and demonstrates how EDA can be used to discover patterns in real-world sales data.
+By combining **state, gender, and product category**, the analysis provides a clearer picture of customer shopping behavior and demonstrates how EDA can be used to discover patterns in real-world sales data
 
 ---
 
